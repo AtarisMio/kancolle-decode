@@ -1,0 +1,11 @@
+$devFiles
+assets/*
+!assets/index.html
+protected/runtime/*
+!protected/runtime/index.html
+data/master/*
+!data/master/index.html
+images/*
+!images/index.html
+CG/*
+!CG/index.html

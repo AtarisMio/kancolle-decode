@@ -1,0 +1,94 @@
+.event_home_body {
+	padding:10px;
+}
+.event_intro {
+	font-size:14px;
+	line-height:16px;
+	margin:0px 0px 20px 0px;
+}
+.event_intro ul {
+	margin:5px 0px 0px 0px;
+	padding:0px 0px 0px 20px;
+}
+.event_intro a {
+	color:#00f;
+}
+a.event_link {
+	color:#000;
+}
+
+.event_map {
+	width:440px;
+	background:#FDE38A;
+	margin:0px 10px 10px 0px;
+	float:left;
+	padding:10px;
+}
+.map_name {
+	width:440px;
+	height:24px;
+	float:left;
+	line-height:24px;
+	margin:0px 0px 5px 0px;
+	text-align:center;
+}
+.map_name .map_code {
+	width:50px;
+	height:24px;
+	float:left;
+	font-size:16px;
+	font-weight:bold;
+	margin:0px 10px 0px 0px;
+}
+.map_name .map_EN {
+	width:200px;
+	height:24px;
+	float:left;
+	font-size:14px;
+	font-weight:bold;
+	text-align:left;
+}
+.map_name .map_JP {
+	width:180px;
+	height:24px;
+	float:left;
+	font-size:10px;
+	text-align:right;
+}
+.map_image {
+	width:300px;
+	height:170px;
+	float:left;
+}
+.map_image img {
+	width:300px;
+	height:170px;
+}
+.map_stats {
+	width:130px;
+	height:170px;
+	float:right;
+}
+.map_stat {
+	width:130px;
+	height:50px;
+	margin:0px 0px 5px 0px;
+}
+.map_stat .stat_name {
+	width:130px;
+	height:20px;
+	line-height:20px;
+	font-size:12px;
+	font-weight:bold;
+	color:#000;
+	text-align:center;
+}
+.map_stat .stat_value {
+	width:130px;
+	height:30px;
+	line-height:30px;
+	font-size:18px;
+	font-weight:bold;
+	color:#00f;
+	text-align:center;
+}

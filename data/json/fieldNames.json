@@ -1,0 +1,104 @@
+{
+	"api_id" : "ID",
+	"api_name" : "Japanese Name",
+	"api_sortno" : "Library Number",
+	"api_type" : "Type",
+	"api_stype" : "Ship Type",
+	"api_ctype" : "Ship Class",
+	
+	"api_houg" : "Firepower",
+	"api_tyku" : "Anti-Air",
+	"api_luck" : "Luck",
+	"api_souk" : "Armor",
+	"api_kaih" : "Evasion",
+	"api_leng" : "Range",
+	"api_taik" : "Max HP",
+	"api_tais" : "Anti-Sub Warfare",
+	"api_raig" : "Torpedo",
+	"api_saku" : "Line of Sight",
+	"api_baku" : "Dive bombing",
+	
+	"api_slot_num" : "Equipment slots",
+	"api_defeq" : "Default Equipment",
+	"api_maxeq" : "Plane Capacity",
+	
+	"api_afterbull" : "Next Remodel Ammo",
+	"api_afterfuel" : "Next Remodel Steel",
+	"api_afterlv" : "Next Remodel level",
+	"api_aftershipid" : "Next Remodel ID",
+	
+	"api_bull_max" : "Ammo cost",
+	"api_fuel_max" : "Fuel cost",
+	
+	"api_broken" : "Scrap Value",
+	"api_powup" : "Modernization",
+	
+	"api_backs" : "Rarity",
+	"api_buildtime" : "Build time",
+	
+	"api_getmes" : "Introduction",
+	"api_sinfo" : "Library Entry",
+	"api_voicef" : "Voice clips",
+	"api_yomi" : "Reading",
+	"api_enqflg" : "Encounter flag",
+	"api_cnum" : "Class Index",
+	
+	"api_bakk" : "Dive Bomb Evasion",
+	"api_houk" : "Shelling Evasion",
+	"api_houm" : "Shelling Accuracy",
+	"api_tous" : "Plane Count",
+	"api_raik" : "Torpedo Evasion",
+	"api_raim" : "Torpedo Accuracy",
+	"api_sakb" : "Recon Interference",
+	"api_sakub" : "Recon Interference",
+	
+	"api_saleflg" : "For Sale",
+	"api_title" : "Title",
+	"api_description" : "Description",
+	"api_rarity" : "Rarity",
+	"api_price" : "Price",
+	
+	"api_sokuh" : "xxxxxxx",
+	"api_soku" : "xxxxxx",
+	"english" : "English Name",
+	"ctype_name" : "Ship-class",
+	"remodel_before" : "ID Before Remodel",
+	"remodel_fuel" : "This Remodel Steel",
+	"remodel_ammo" : "This Remodel Ammo",
+	"remodel_level" : "This Remodel Level",
+	"remodel_stage" : "This Remodel Stage",
+	
+	"api_info" : "Introduction",
+	"api_usebull" : "Ammo Usage",
+	
+	"api_maparea_id" : "World Number",
+	"api_no" : "Number",
+	"api_map_bgm" : "BGM Normal Nodes",
+	"api_boss_bgm" : "BGM Boss Node",
+	
+	"api_map_no" : "Map Number",
+	"api_mapinfo_no" : "nth Map of World",
+	"api_color_no" : "Node Color",
+	
+	"api_level" : "Level",
+	"api_opetext" : "Strategy Name",
+	"api_infotext" : "Information",
+	
+	"api_item" : "Map Retrievable Items",
+	"api_max_maphp" : "Boss HP Gauge",
+	"api_required_defeat_count" : "Required Boss Kills",
+	"api_sally_flag" : "Can Sortie?",
+	
+	"api_details" : "Details",
+	"api_time" : "Duration (minutes)",
+	"api_difficulty" : "Difficulty Stars",
+	"api_use_fuel" : "Fuel Usage (percent)",
+	"api_use_bull" : "Ammo Usage (percent)",
+	"api_win_item1" : "Reward Item 1",
+	"api_win_item2" : "Reward Item 2",
+	"api_return_flag" : "Can be pulled back?",
+	
+	
+	
+	"" : "Unknown"
+}

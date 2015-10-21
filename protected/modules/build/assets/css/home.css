@@ -1,0 +1,131 @@
+#pagetitle {
+	width:940px;
+	margin:0px auto 10px;
+	padding:10px 0px 0px 0px;
+	font-size:20px;
+	font-weight:bold;
+}
+#intro {
+	width:940px;
+	line-height:17px;
+	margin:0px auto 10px;
+	padding:0px 0px 0px 0px;
+	font-size:14px;
+}
+#graphButtons {
+	width:620px;
+	padding:20px 0px 0px 0px;
+	margin:0px auto 30px;
+}
+.graphButton {
+	width:300px;
+	height:40px;
+	line-height:40px;
+	background:#039;
+	color:#fff;
+	margin:0px 10px 0px 0px;
+	float:left;
+	font-weight:bold;
+	text-align:center;
+	font-size:14px;
+	
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	border-radius: 10px;
+	-khtml-border-radius: 10px;
+}
+
+#latest {
+	width:940px;
+	margin:0px auto;
+	padding:0px 0px 20px 0px;
+}
+.sectionHeader {
+	width:940px;
+	height:40px;
+	line-height:40px;
+	border-bottom:1px solid #aaa;
+	margin:0px 0px 10px 0px;
+}
+.sectionTitle {
+	font-size:18px;
+	height:22px;
+	line-height:22px;
+}
+.sectionDesc {
+	font-size:12px;
+	height:16px;
+	line-height:16px;
+}
+
+#reports {
+	width:940px;
+	margin:0px auto;
+}
+.report {
+	width:940px;
+	height:24px;
+	line-height:24px;
+	margin:0px 0px 3px 0px;
+	font-size:12px;
+}
+.report_column {
+	float:left;
+	height:24px;
+	line-height:24px;
+	margin:0px 10px 0px 0px;
+}
+
+.resources {
+	width:215px;
+	float:left;
+}
+.resource {
+	width:40px;
+	height:24px;
+	line-height:24px;
+	float:left;
+	text-align:center;
+	font-weight:bold;
+	margin:0px 3px 0px 0px;
+}
+
+.docks {
+	width:50px;
+}
+.docks .icon {
+	width:24px;
+	height:24px;
+	margin:0px 4px 0px 0px;
+	float:left;
+}
+.docks .icon img {
+	width:24px;
+	height:24px;
+}
+.docks .count {
+	width:22px;
+	height:24px;
+	line-height:24px;
+	font-size:14px;
+	font-weight:bold;
+	float:left;
+	text-align:center;
+}
+
+.hqlv {
+	width:60px;
+}
+
+.flagship {
+	width:150px;
+}
+
+.result {
+	width:100px;
+}
+
+.details {
+	width:250px;
+	color:#888;
+}

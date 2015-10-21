@@ -1,0 +1,51 @@
+.graphWrap {
+	width:1200px;
+	min-height:400px;
+	margin:10px auto;
+	font-family:Arial;
+	font-size:12px;
+}
+.graphTitle {
+	width:1500px;
+	height:40px;
+	line-height:40px;
+	font-size:20px;
+	font-weight:bold;
+	text-align:center;
+}
+.recipeRow {
+	width:1500px;
+	height:20px;
+	margin:0px 0px 5px 0px;
+}
+.recipeName {
+	float:left;
+	width:190px;
+	height:20px;
+	line-height:20px;
+	font-weight:bold;
+}
+.recipeBar {
+	float:left;
+	width:1300px;
+	height:20px;
+	background:#fff;
+	overflow:hidden;
+	border:1px solid #000;
+}
+
+.shipBar {
+	height:20px;
+	line-height:18px;
+	float:left;
+	font-size:10px;
+	border-right:1px solid #000;
+	white-space:nowrap;
+	overflow:hidden;
+	font-weight:bold;
+}
+
+.graphNames {
+	width:1300px;
+	margin:20px 0px 0px 190px;
+}

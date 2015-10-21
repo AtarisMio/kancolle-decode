@@ -1,0 +1,33 @@
+#content {
+	padding:20px 0px;
+	height:500px;
+}
+#errorBox {
+	width:400px;
+	margin:50px auto 100px;
+	background:#fee;
+	border:2px outset #a77;
+	padding:10px 20px;
+}
+#errorGirl {
+	width:141px;
+	height:186px;
+	float:left;
+	margin:0px 9px 0px 0px;
+}
+#errorCode {
+	width:250px;
+	height:20px;
+	line-height:20px;
+	font-size:16px;
+	font-weight:bold;
+	margin:0px 0px 5px 0px;
+	float:left;
+}
+#errorMsg {
+	width:250px;
+	height:160px;
+	font-size:14px;
+	margin:0px 0px 0px 0px;
+	float:left;
+}

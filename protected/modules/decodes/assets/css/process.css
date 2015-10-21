@@ -1,0 +1,39 @@
+.process_head {
+	font-size:18px;
+	text-align:center;
+	background:#fdd;
+	margin:0px 0px 20px 0px;
+	height:40px;
+	line-height:40px;
+}
+.process_head strong {
+	color:#00f;
+}
+
+.process_list {
+	margin:0px 0px 0px 20px;
+	font-size:14px;
+}
+.process_item {
+	margin:0px 0px 10px 0px;
+	height:20px;
+	line-height:20px;
+}
+.process_icon {
+	width:20px;
+	height:20px;
+	border:1px solid #000;
+	-moz-border-radius: 20px 20px 20px 20px;
+	-webkit-border-radius: 20px 20px 20px 20px;
+	border-radius: 20px 20px 20px 20px;
+	-khtml-border-radius: 20px 20px 20px 20px;
+	float:left;
+	margin:0px 10px 0px 0px;
+}
+.process_red { background:#f66; }
+.process_green { background:#6f6; }
+.process_text {
+	float:left;
+	width:200px;
+	height:20px;
+}

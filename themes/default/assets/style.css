@@ -1,0 +1,13 @@
+body {
+	background-image:url(bg.jpg);
+	background-color:#fff;
+	background-position:-30px -30px;
+}
+#wrapper {
+	margin:10px auto;
+	width:960px;
+	font-family:Arial;
+}
+#content {
+	width:960px;
+}
